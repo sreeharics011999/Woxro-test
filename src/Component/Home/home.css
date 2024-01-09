@@ -1,0 +1,131 @@
+@font-face {
+    font-family: Roboto;
+    src: url(../font/Roboto-Thin.ttf);
+}
+
+.home-first-p {
+    color: white;
+    font-family: Roboto;
+    font-size: xx-large;
+    text-align: center;
+    padding-top: 3%;
+}
+
+.home {
+    background-color: black;
+}
+.close-btn-div{
+    text-align: end;
+    margin-right: 3%;
+    padding-top: 3%;
+}
+.close-btn{
+    color: white;
+}
+.banner-img{
+    width: 100%;
+}
+.banner-img-div{
+padding-bottom: 5%;
+}
+.home-second-p{
+    color: white;
+    text-align: center;
+    padding-bottom: 3%;
+}
+.web-btn{
+    text-align: center;
+    color: black;
+}
+.website-btn-div{
+    text-align: center;
+}
+.card-img{
+    text-align: center;
+}
+.card-img-div,.card-1-img-div{
+    text-align: center;
+}
+.card{
+    background-color: black !important;
+    text-align: center;
+    width: 70%;
+    margin-left: 15%;
+}
+.card-p-div{
+    justify-content: center;
+}
+.card-p,.card-1-p{
+    color: white;
+    text-align: center;
+    margin-top: 3%;
+
+}
+.row-1{
+    margin-top: 5%;
+}
+.contribution{
+    text-align: center;
+    margin-top: 5%;
+}
+.contribution-h3,.contribution-p{
+text-align: center;
+color: white;
+margin-top: 2%;
+}
+.card-1-h3{
+    font-size: 300%;
+    color: white;
+}
+.card-1-p{
+    text-align: center;
+}
+.card-1{
+    margin-top: 5%;
+}
+.last-content{
+    text-align: center;
+    margin-top: 15%;
+}
+.last-content-h3{
+    color: white;
+    margin-bottom: 3%;
+}
+p{
+    color: rgb(230, 230, 230) !important;
+}
+.btn-outline-light{
+    border: 1px solid white !important;
+    color: white !important;
+    background-color: black !important;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-radius: 0;
+    margin-right: 3%;
+}
+.btn-light{
+    color: black!important;
+    background-color: white!important;
+    padding-left: 5%;
+    padding-right: 5%;
+    border-radius: 0;
+   
+}
+.last-btn{
+    text-align: center;
+    margin-top: 5%;
+}
+.footer-p{
+    text-align: center;
+    color: white;
+    font-size: small;
+}
+.footer{
+    margin-top: 15%;
+    padding-bottom: 1%;
+}
+@media screen and (max-width: 600px) {
+    .home-first-p{
+        font-size: ;
+    }
+  }
